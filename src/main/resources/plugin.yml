@@ -1,0 +1,9 @@
+name: SkinTags
+version: ${project.version}
+main: ${project.groupId}.${project.artifactId}
+authors: [SettingDust]
+description: Add a skin tag to items, entities.
+depend: [PowerNBT]
+softdepend: [RPGInventory]
+commands:
+  skintags:
